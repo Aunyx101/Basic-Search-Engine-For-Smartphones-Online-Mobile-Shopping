@@ -8,6 +8,6 @@ compare two chosen smartphones together. The program, after
 comparison, will finally display a passage in English comparing the two 
 chosen products together.
 
-*Read 'PF Project Report.pdf' Inside 'Simple .C Implementation' Folder For More Details. 
+*Read 'PF Project Report.pdf' Inside 'Simple .Cpp Implementation' Folder For More Details. 
 
 *You Can Find OOP Implementation Of The Same Project Inside 'OOP Implementation' Folder. 
